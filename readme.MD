@@ -23,7 +23,6 @@ Database Schemas
 
 
 How to run:
-
 	Download files
 	Run npm install in the API folder and the React-App folder
 	Run the start shell script in the root folder
