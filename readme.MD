@@ -21,6 +21,11 @@ Database Schemas
 	Post
 	User
 
+Dependencies
+	MongoDB
+	Node
+
+
 
 How to run:
 	Download files
