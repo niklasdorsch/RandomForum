@@ -1,0 +1,21 @@
+{
+  "name": "fromscratch",
+  "version": "1.0.0",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reset": "sudo kill -9 $(lsof -ti tcp:8000)"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "^4.16.2",
+    "mongoose": "^4.10.8",
+    "mongoose-timestamp": "^0.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0"
+  }
+}
